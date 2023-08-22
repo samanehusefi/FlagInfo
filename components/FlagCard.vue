@@ -2,7 +2,6 @@
 const props = defineProps({
     country: Object,
 })
-// const setCountry = ()=>localStorage.setItem("SelectedCountry", JSON.stringify( props.country));
 
 </script>
 <template>
